@@ -221,4 +221,4 @@ CopyQ is provided as a complete free version with all features and updates inclu
 Unlock the full power of your clipboard today with CopyQ! Click the download button above to get started!
 
 ---
-**Last updated:** 2026-09-23 13:09:57 UTC
+**Last updated:** 2026-09-23 18:05:42 UTC
